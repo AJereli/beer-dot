@@ -3,7 +3,7 @@ out
 BeerDotApi/appsettings.Production.json
 BeerDotApi/.vscode
 BeerDotApi/out
-BeerDotApi/appsettings.Development.json
+/BeerDotApi/appsettings.Development.json
 
 # globs
 Makefile.in
